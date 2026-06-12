@@ -1,7 +1,3 @@
-# Dataset — large file, publicly available at:
-# https://archive.ics.uci.edu/static/public/360/air+quality.zip
-data/*.csv
-data/*.xlsx
 data/*.zip
 
 # Python
